@@ -30,6 +30,13 @@
 }
 .mainimage{
 text-align:center;
+
+}
+.top-left{
+position:absolute;
+bottom:8px;
+left:16px;
+font-size:30px;
 }
 /******************************************
 /* ADDITIONAL STYLES
