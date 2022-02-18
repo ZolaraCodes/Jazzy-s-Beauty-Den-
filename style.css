@@ -23,17 +23,9 @@
   font-size:17px;  
 }
 
- .topnav a hover{
-  width: 100px;
-  height: 200px;
-  border: 3px solid black;
-  margin: 0 auto;
-  list-style: none;
-  padding: 14px ;
-}
-li{
-  width: 94px;
-  height: 65px;
+.topnav .icon{
+ display:none;
+  
 }
 
 /******************************************
