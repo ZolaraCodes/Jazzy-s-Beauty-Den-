@@ -1,8 +1,8 @@
 function openform(){
-  document.getElementbyId("myForm").style.display="block";
+  document.getElementbyId("MyForm").style.display="block";
   
 }
 
 function closeform(){
-document.getElementbyId("myForm").style.display="none";
+document.getElementbyId("MyForm").style.display="none";
 }
