@@ -57,12 +57,35 @@ nottom:23px;
 right:28px;
 width:180px;}
 
+
+
 .form-popup{
-  display:none;
-  postion:fixed;
-  bottom:0;
-  right:15px;
-  border:3px solid
+display:none;
+positon:fixed;
+bottom:0;
+right:15px;
+border:3px solid  #f1f1f1;
+z-index:9;}
+
+.form-container{
+max-width:300px;
+padding:10px;
+background-color:white;}
+
+.form-container textarea{
+width:100%
+padding:15px;
+margin:5px 0 22px 0;
+border:none;
+background:#f1f1f1;
+resize:none;
+min-height:200px;}
+
+.form-container textarea:focus{
+  background-color:blue;
+  outline:none;}
+  
+  
 }
 /******************************************
 /* ADDITIONAL STYLES
