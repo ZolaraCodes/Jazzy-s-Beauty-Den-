@@ -82,11 +82,14 @@ resize:none;
 min-height:200px;}
 
 .form-container textarea:focus{
-  background-color:blue;
+  background-color:#ddd;
   outline:none;}
   
+.form-container .btn{
   
 }
+  
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
