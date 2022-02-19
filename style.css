@@ -46,8 +46,8 @@ img{
   background-size: cover;
 }
 
-.storehours{
-  top:25px;
+.store-hours{
+  right:50%;
 }
 .open-button{
 background-color:black;
