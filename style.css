@@ -36,7 +36,7 @@ text-align:center;
 .top-left{
 position:absolute;
 bottom:8px;
-top:30px;
+top:36px;
 font-size:60px;
 left:33%;
 font-family: 'Great Vibes', cursive;
@@ -45,6 +45,7 @@ font-family: 'Great Vibes', cursive;
 img{
   background-image:url("https://cdn.glitch.global/fc4a6dd1-6150-4e05-b8a2-9a71e18cf9fe/adrian-fernandez-t1jlLrsMpjc-unsplash.jpg?v=1645163956025");
   height:50%;
+  max-width:100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
