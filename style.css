@@ -1,15 +1,8 @@
-/******************************************
-/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
-/*******************************************/
 
-/* Box Model Hack */
-*{
-  box-sizing: border-box;
+
+box-sizing{ border-box;
 }
 
-/******************************************
-/* LAYOUT
-/*******************************************/
 .topnav{
   text-align:center;
   background-color:white;
@@ -43,6 +36,7 @@ font-family: 'Great Vibes', cursive;
 
 }
 img{
+  dislay:flex;
   background-image:url("https://cdn.glitch.global/fc4a6dd1-6150-4e05-b8a2-9a71e18cf9fe/adrian-fernandez-t1jlLrsMpjc-unsplash.jpg?v=1645163956025");
   height:50%;
   background-position: center;
@@ -57,15 +51,3 @@ img{
 
   
 
-/******************************************
-/* ADDITIONAL STYLES
-/*******************************************/
-#purple{
-  background: rgba(241,63,247,1);
-}
-#green{
-  background: rgba(0,253,81,1);
-}
-#blue{
-  background: rgba(0,254,255);
-}
