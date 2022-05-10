@@ -10,25 +10,11 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
-
-body{
-   background-image:-webkit-linear-gradient(60deg,rgba(217, 18, 20, 0.637),rgba(123, 173, 260, 0.904));
-  background-position: center 0;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -ms-background-size: cover;
-}
-
-
 .topnav{
   text-align: center;
   background-color:white;
   overflow:hidden;
-  position:fixed;
+  postion:fixed;
 }
 .topnav a{
   color:black;
@@ -57,7 +43,7 @@ font-family: 'Great Vibes', cursive;
 
 }
 img{
-  background-image:url("https://cdn.glitch.global/fc4a6dd1-6150-4e05-b8a2-9a71e18cf9fe/adrian-fernandez-t1jlLrsMpjc-unsplash-removebg-preview.png?v=1652181959847" alt="hair" width="1000" height="900");
+  background-image:url("https://cdn.glitch.global/fc4a6dd1-6150-4e05-b8a2-9a71e18cf9fe/adrian-fernandez-t1jlLrsMpjc-unsplash.jpg?v=1645163956025");
   height:50%;
   max-width:100%;
   background-position: center;
