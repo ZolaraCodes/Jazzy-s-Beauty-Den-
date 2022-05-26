@@ -35,10 +35,11 @@ text-align:center;
 }
 .top-left{
 position:absolute;
+
 bottom:8px;
 top:36px;
 font-size:60px;
-left:33%;
+left:28%;
 font-family: 'Great Vibes', cursive;
 
 }
