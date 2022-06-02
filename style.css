@@ -14,7 +14,7 @@
   text-align: center;
   background-color:white;
   overflow:hidden;
-  postion:fixed;
+  position:fixed;
 }
 .topnav a{
   color:black;
@@ -67,4 +67,8 @@ img{
 }
 #blue{
   background: rgba(0,254,255);
+}
+
+@media screen and (max-width:720px) {
+/*CSS code for devices with a maximal width of 720 px */
 }
