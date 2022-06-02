@@ -18,9 +18,16 @@ h1{
 }
 
 body{
-  background-image:
+background: #f12711;  /* fallback for old browsers */
+background: -webkit-linear-gradient( right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+
 }
 
+img{
+  display:flex;
+  justify-content:center;
+  margin:auto;
+}
   
 
 /******************************************
