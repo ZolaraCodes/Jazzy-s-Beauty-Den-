@@ -84,17 +84,17 @@ nav .start-home, a:nth-child(1):hover~.animation {
 nav .start-about, a:nth-child(2):hover~.animation {
   width: 110px;
   left: 100px;
-  background-color: #e74c3c;
+  background-color:  #f24900;
 }
 nav .start-blog, a:nth-child(3):hover~.animation {
   width: 100px;
   left: 210px;
-  background-color: #f24900;
+  background-color: #ff741a;
 }
 nav .start-portefolio, a:nth-child(4):hover~.animation {
   width: 160px;
   left: 310px;
-  background-color: #ff741a;
+  background-color:#ff881a;
 }
 nav .start-contact, a:nth-child(5):hover~.animation {
   width: 120px;
