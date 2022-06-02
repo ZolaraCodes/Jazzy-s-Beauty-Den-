@@ -16,14 +16,8 @@
   overflow:hidden;
   position:fixed;
 }
-.topnav a{
-  color:black;
-  padding:110px 17px;
-  text-decoration:none;
-  font-size:17px; 
-  
- 
-}
+
+
 
 .topnav .icon{
  display:none;
@@ -44,7 +38,7 @@ font-family: 'Great Vibes', cursive;
 
 }
 img{
-  background-image:url("https://cdn.glitch.global/fc4a6dd1-6150-4e05-b8a2-9a71e18cf9fe/adrian-fernandez-t1jlLrsMpjc-unsplash.jpg?v=1645163956025");
+  background-image:url("");
   height:50%;
   max-width:100%;
   background-position: center;
