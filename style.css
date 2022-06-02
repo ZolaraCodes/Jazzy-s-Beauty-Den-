@@ -19,7 +19,8 @@ h1{
 
 body{
 background: #f12711;  /* fallback for old browsers */
-background: -webkit-linear-gradient( right, #f5af19, #f12711);  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient( right, #f5af19, #f12711);  
+  color:#b3002d;
 
 }
 
